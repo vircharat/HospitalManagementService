@@ -1,0 +1,9 @@
+C:\c_sharp\HospitalManagementSystem\HospitalManagementDAL\bin\Debug\HospitalManagementDAL.dll
+C:\c_sharp\HospitalManagementSystem\HospitalManagementDAL\bin\Debug\HospitalManagementDAL.pdb
+C:\c_sharp\HospitalManagementSystem\HospitalManagementDAL\bin\Debug\HospitalManagementEntityy.dll
+C:\c_sharp\HospitalManagementSystem\HospitalManagementDAL\bin\Debug\HospitalManagementEntityy.pdb
+C:\c_sharp\HospitalManagementSystem\HospitalManagementDAL\obj\Debug\HospitalManagementDAL.csproj.AssemblyReference.cache
+C:\c_sharp\HospitalManagementSystem\HospitalManagementDAL\obj\Debug\HospitalManagementDAL.csproj.CoreCompileInputs.cache
+C:\c_sharp\HospitalManagementSystem\HospitalManagementDAL\obj\Debug\HospitalManagementDAL.csproj.CopyComplete
+C:\c_sharp\HospitalManagementSystem\HospitalManagementDAL\obj\Debug\HospitalManagementDAL.dll
+C:\c_sharp\HospitalManagementSystem\HospitalManagementDAL\obj\Debug\HospitalManagementDAL.pdb

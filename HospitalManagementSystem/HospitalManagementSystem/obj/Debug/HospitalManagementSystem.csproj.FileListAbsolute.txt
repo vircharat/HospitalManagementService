@@ -1,0 +1,15 @@
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementBLL.dll
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementDAL.dll
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementEntityy.dll
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementBLL.pdb
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementDAL.pdb
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementEntityy.pdb
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.AssemblyReference.cache
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CopyComplete
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\c_sharp\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
